@@ -1,4 +1,4 @@
-# C Programming 
+# C Programming Basics
 
 This repository contains small C exercises developed as part of my
 university-level learning path in programming at UNICT.
@@ -17,11 +17,16 @@ simple, focused programs, written with clarity and correctness in mind.
   (`+`, `-`, `*`, `/`) and performs the selected operation.
   Includes input validation and division-by-zero handling.
 
+- `grade_evaluation.c`  
+  Reads a letter grade (`A`, `B`, `C`, `D`, `F`) from input and prints
+  a corresponding message using a `switch` statement.
+
 ## Concepts covered
 
 - Functions
 - Conditional statements (`if`, `switch`)
 - Standard input/output (`scanf`, `printf`)
+- Character input handling
 - Basic error handling
 - Program structure in C
 
