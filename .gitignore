@@ -1,0 +1,11 @@
+# Compiled files
+*.out
+*.o
+*.exe
+*.a
+*.so
+*.dylib
+
+# macOS junk
+.DS_Store
+
