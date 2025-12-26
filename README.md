@@ -21,6 +21,11 @@ simple, focused programs, written with clarity and correctness in mind.
   Reads a letter grade (`A`, `B`, `C`, `D`, `F`) from input and prints
   a corresponding message using a `switch` statement.
 
+- `student_struct.c`  
+  Defines a `struct` to represent a student and initializes multiple
+  instances with personal and academic data.
+
+
 ## Concepts covered
 
 - Functions
