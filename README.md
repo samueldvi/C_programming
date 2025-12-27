@@ -25,6 +25,9 @@ simple, focused programs, written with clarity and correctness in mind.
   Defines a `struct` to represent a student and initializes multiple
   instances with personal and academic data.
 
+- `guessing_game.c`  
+  A simple guessing game where the user has a limited number of attempts
+  to guess a secret number using a `while` loop.
 
 ## Concepts covered
 
