@@ -29,6 +29,10 @@ simple, focused programs, written with clarity and correctness in mind.
   A simple guessing game where the user has a limited number of attempts
   to guess a secret number using a `while` loop.
 
+- `array_max.c`  
+  Iterates over a one-dimensional integer array and prints the maximum
+  value, using safe array size calculation.
+
 ## Concepts covered
 
 - Functions
@@ -36,6 +40,7 @@ simple, focused programs, written with clarity and correctness in mind.
 - Standard input/output (`scanf`, `printf`)
 - Character input handling
 - Basic error handling
+- Arrays and iteration
 - Program structure in C
 
 ## Compile and run
