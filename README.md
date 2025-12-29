@@ -33,6 +33,9 @@ simple, focused programs, written with clarity and correctness in mind.
   Iterates over a one-dimensional integer array and prints the maximum
   value, using safe array size calculation.
 
+- `2D_matrix_print.c`  
+  Prints the elements of a two-dimensional integer array using nested loops.
+
 ## Concepts covered
 
 - Functions
