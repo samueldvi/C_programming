@@ -36,6 +36,10 @@ simple, focused programs, written with clarity and correctness in mind.
 - `2D_matrix_print.c`  
   Prints the elements of a two-dimensional integer array using nested loops.
 
+- `pointer_increment.c`  
+  Demonstrates basic pointer usage by modifying a variable through its memory address.
+
+
 ## Concepts covered
 
 - Functions
@@ -45,6 +49,8 @@ simple, focused programs, written with clarity and correctness in mind.
 - Basic error handling
 - Arrays and iteration
 - Program structure in C
+- Pointers and pass-by-reference
+
 
 ## Compile and run
 
