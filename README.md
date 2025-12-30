@@ -38,6 +38,8 @@ simple, focused programs, written with clarity and correctness in mind.
 
 - `pointer_increment.c`  
   Demonstrates basic pointer usage by modifying a variable through its memory address.
+- `file_write_basic.c`  
+  Writes a line of text to a file using standard C file I/O functions.
 
 
 ## Concepts covered
@@ -50,6 +52,8 @@ simple, focused programs, written with clarity and correctness in mind.
 - Arrays and iteration
 - Program structure in C
 - Pointers and pass-by-reference
+- File input/output (FILE, fopen, fprintf, fclose)
+
 
 
 ## Compile and run
